@@ -1,0 +1,32 @@
+﻿Сборка начата 23.04.2022 18:32:52.
+Уровень детализации журнала: Normal.     1>Проект "F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SEP_Lab07L.vcxproj" в узле 2 (целевые объекты Rebuild).
+     1>_PrepareForClean:
+         Файл "Debug\SE_Lab07L.tlog\SE_Lab07L.lastbuildstate" удаляется.
+       InitializeBuildStatus:
+         Обращение к "Debug\SE_Lab07L.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"F:\лабы\КПО\7 лаба\SE__Lab07S\Debug\SE_Lab07L.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt SE_Lab07L.cpp
+         SE_Lab07L.cpp
+     1>F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SE_Lab07L.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SE_Lab07L.cpp(73,23): warning C4018: <: несоответствие типов со знаком и без знака
+     1>F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SE_Lab07L.cpp(81): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\Lib.exe /OUT:"F:\лабы\КПО\7 лаба\SE__Lab07S\Debug\SE_Lab07L.lib" /NOLOGO /MACHINE:X86 Debug\SE_Lab07L.obj
+         SEP_Lab07L.vcxproj -> F:\лабы\КПО\7 лаба\SE__Lab07S\Debug\SE_Lab07L.lib
+       FinalizeBuildStatus:
+         Файл "Debug\SE_Lab07L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\SE_Lab07L.tlog\SE_Lab07L.lastbuildstate".
+     1>Сборка проекта "F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SEP_Lab07L.vcxproj" завершена (целевые объекты Rebuild).
+
+Сборка успешно завершена.
+
+       "F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SEP_Lab07L.vcxproj" (целевой объект Rebuild ) (1) ->
+       (Целевой объект ClCompile) -> 
+         F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SE_Lab07L.cpp(57,23): warning C4018: <: несоответствие типов со знаком и без знака
+         F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SE_Lab07L.cpp(73,23): warning C4018: <: несоответствие типов со знаком и без знака
+         F:\лабы\КПО\7 лаба\SE__Lab07S\SEP_Lab07L\SE_Lab07L.cpp(81): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 3
+    Ошибок: 0
+
+Прошло времени 00:00:00.93
